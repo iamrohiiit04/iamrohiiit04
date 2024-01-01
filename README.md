@@ -1,6 +1,6 @@
-![logo](https://github.com/iamrohiiit04/iamrohiiit04/blob/main/iamrohiiit04.png)
+![logo](https://github.com/iamrohiiit04/iamrohiiit04/blob/main/Portfolio_background-removebg-preview.png)
 <h1 align="center">Namaste, I'm Rohit Salvi</h1>
-<img align="right" src="https://github.com/iamrohiiit04/iamrohiiit04/blob/main/RohitSalviProfile.png" alt="Rohit Salvi" width="20%">
+<img align="right" src="https://github.com/iamrohiiit04/iamrohiiit04/blob/main/iamrohiiit04.png" alt="Rohit Salvi" width="20%">
 <h3 align="center">I am an enthusiastic Full Stack Developer, with a rich experience of over 3 years in Frontend Development & Software Engineering with the knowledge of Data Analyst.</h3>
 
 - 🌱 I’m currently learning **ReactJS**
